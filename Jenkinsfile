@@ -6,6 +6,11 @@ pipeline {
 			steps {
 				echo 'Building..'
 			}
+			post {
+                success {
+                    junit 'monappli/monappli-domaine/target/surefire-reports/*.xml'
+                        }
+                 }
 		}
 		stage('Test') {
 			steps {
