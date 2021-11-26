@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.objis.demomaven.AppTest" time="0.095" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.objis.demomaven.AppTest" time="0.424" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\orsys\AppData\Local\Temp\surefire106752580067791876\surefirebooter7721877246535290046.jar C:\Users\orsys\AppData\Local\Temp\surefire106752580067791876 2021-11-25T10-43-30_077-jvmRun1 surefire822602969358643048tmp surefire_06946289815661234373tmp"/>
+    <property name="sun.java.command" value="C:\Users\orsys\AppData\Local\Temp\surefire4025979625304046890\surefirebooter1267758821829349523.jar C:\Users\orsys\AppData\Local\Temp\surefire4025979625304046890 2021-11-26T09-31-11_351-jvmRun1 surefire5101352666806657190tmp surefire_08604545001988515478tmp"/>
     <property name="surefire.test.class.path" value="C:\formationmaven\TPs\TP3\monappli\monappli-domaine\target\test-classes;C:\formationmaven\TPs\TP3\monappli\monappli-domaine\target\classes;C:\Users\orsys\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\orsys\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\orsys"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\orsys\AppData\Local\Temp\surefire106752580067791876\surefirebooter7721877246535290046.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\orsys\AppData\Local\Temp\surefire4025979625304046890\surefirebooter1267758821829349523.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -52,7 +52,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\anaconda3-5.2.0;C:\anaconda3-5.2.0\Library\mingw-w64\bin;C:\anaconda3-5.2.0\Library\usr\bin;C:\anaconda3-5.2.0\Library\bin;C:\anaconda3-5.2.0\Scripts;C:\opt\Python36-32\Scripts\;C:\opt\Python36-32\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\opt\apache-ant-1.9.10\bin;C:\opt\nodejs\node_modules\npm;C:\Program Files\Git\cmd;C:\opt\Ruby25-x64\bin;C:\Program Files\GitHubDesktop\bin;C:\Program Files\atom\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\opt\glassfish5\bin;C:\Program Files\jEdit;C:\opt\apache-jmeter-4.0\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\opt\play-java-starter-example\sbt-dist\bin;C:\Program Files\PuTTY\;C:\Program Files (x86)\Rational\common;C:\opt\apache-maven-3.5.3\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\opt\MinGW\bin;C:\Windows\System32\OpenSSH\;C:\opt\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\orsys\AppData\Local\Microsoft\WindowsApps;;C:\Users\orsys\AppData\Local\Microsoft\WindowsApps;C:\Users\orsys\AppData\Roaming\npm;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\opt\apache-maven-3.5.3/bin;C:\Program Files\Java\jdk1.8.0_152/bin;C:\Program Files\Java\jdk1.8.0_152/bin;C:\anaconda3-5.2.0;C:\anaconda3-5.2.0\Library\mingw-w64\bin;C:\anaconda3-5.2.0\Library\usr\bin;C:\anaconda3-5.2.0\Library\bin;C:\anaconda3-5.2.0\Scripts;C:\opt\Python36-32\Scripts\;C:\opt\Python36-32\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\opt\apache-ant-1.9.10\bin;C:\opt\nodejs\node_modules\npm;C:\Program Files\Git\cmd;C:\opt\Ruby25-x64\bin;C:\Program Files\GitHubDesktop\bin;C:\Program Files\atom\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\opt\glassfish5\bin;C:\Program Files\jEdit;C:\opt\apache-jmeter-4.0\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\opt\play-java-starter-example\sbt-dist\bin;C:\Program Files\PuTTY\;C:\Program Files (x86)\Rational\common;C:\opt\apache-maven-3.5.3\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\opt\MinGW\bin;C:\Windows\System32\OpenSSH\;C:\opt\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\orsys\AppData\Local\Microsoft\WindowsApps;;C:\Users\orsys\AppData\Local\Microsoft\WindowsApps;C:\Users\orsys\AppData\Roaming\npm;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25.152-b16"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.objis.demomaven.AppTest" time="0.003"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.objis.demomaven.AppTest" time="0.018"/>
 </testsuite>
