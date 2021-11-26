@@ -8,7 +8,7 @@ pipeline {
 			}
 			post {
                 success {
-                    junit 'C:\formationmaven\TPs\TP3\monappli\monappli-service\target\surefire-reports\*.xml'
+                    junit 'monappli/monappli-service/target/surefire-reports/*.xml'
                         }
                  }
 		}
